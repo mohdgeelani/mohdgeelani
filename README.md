@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohd Geelani [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/your-linkedin-username)
+# 👋 Hi, I'm Mohd Geelani [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/your-linkedin-username)](https://www.linkedin.com/in/mohd-geelani/)
 🎓 Recent CSE Graduate | AI/ML & Data Enthusiast | Software & Data Engineering  
 💡 Passionate about building **scalable systems**, **data pipelines**, and **production-ready architectures**.
 
@@ -15,13 +15,10 @@
 ---
 ## 📌 Pinned Repositories
 
-[![FastAuth-RBAC-Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=FastAuth-RBAC-Sentinel&theme=react)](https://github.com/mohdgeelani/FastAuth-RBAC-Sentinel)   [![RetailFlow](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=RetailFlow&theme=react)](https://github.com/mohdgeelani/RetailFlow)
+[![FastAuth-RBAC-Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=FastAuth-RBAC-Sentinel&theme=react)](https://github.com/mohdgeelani/FastAuth-RBAC-Sentinel)[![RetailFlow](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=RetailFlow&theme=react)](https://github.com/mohdgeelani/RetailFlow)
 [![URL-Shortener](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=url_shortener&theme=react)](https://github.com/mohdgeelani/url_shortener)[![Melody_Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=Melody_Mosaic&theme=react)](https://github.com/mohdgeelani/Melody_Mosaic)
 
 ---
-
-## 🛠️ Technical Skills
-
 
 ## 🛠️ Technical Skills
 
@@ -63,6 +60,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdgeelani&show_icons=true&theme=react&hide_border=true)
 
 ---
+
+Always learning. Always building.
 
 
 
