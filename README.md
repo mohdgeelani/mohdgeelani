@@ -10,7 +10,8 @@
 - 🔁 Develop robust **ETL pipelines** using **Airflow**, **SQL**, and **Python**
 - ☁️ Build **serverless microservices** using **AWS Lambda** and **SAM CLI**
 - 📊 Integrate **real-time observability** with **Prometheus + Grafana**
-- 🧠 Solve DSA problems on [LeetCode]([https://leetcode.com/](https://leetcode.com/u/MOHD_GEELANI_25/)) (500+) & [GFG]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/user/mohdgeelanikhan25/)) (600+)
+- 🧠 Solve DSA problems on [LeetCode](https://leetcode.com/MOHD_GEELANI_25/) (500+) & [GFG](https://www.geeksforgeeks.org/user/mohdgeelanikhan25/) (600+)
+
 
 ---
 ## Pinned Repositories
