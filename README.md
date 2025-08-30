@@ -1,22 +1,21 @@
 # 👋 Hi, I'm Mohd Geelani   &nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/mohd-geelani/)
 🎓 Recent CSE Graduate | AI/ML & Data Enthusiast | Software & Data Engineering  
-💡 Passionate about building **scalable systems**, **data pipelines**, and **production-ready architectures**.
+💡 Passionate about building **scalable systems**, **data pipelines**, and **observability-driven backends**.
 
 ---
 
-## 🚀 What I Do
+## 🌟 What I Do
 
 - 🛠️ Build **scalable backend systems** with **FastAPI**, **JWT Auth**, and **Dockerized architecture**
 - 🔁 Develop robust **ETL pipelines** using **Airflow**, **SQL**, and **Python**
 - ☁️ Build **serverless microservices** using **AWS Lambda** and **SAM CLI**
 - 📊 Integrate **real-time observability** with **Prometheus + Grafana**
-- 🧠 Solve 1100+ DSA problems on [LeetCode]([https://leetcode.com/](https://leetcode.com/u/MOHD_GEELANI_25/)) (500+) & [GFG]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/user/mohdgeelanikhan25/)) (600+)
+- 🧠 Solve DSA problems on [LeetCode]([https://leetcode.com/](https://leetcode.com/u/MOHD_GEELANI_25/)) (500+) & [GFG]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/user/mohdgeelanikhan25/)) (600+)
 
 ---
-## 📌 Pinned Repositories
+## Pinned Repositories
 
-[![FastAuth-RBAC-Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=FastAuth-RBAC-Sentinel&theme=react)](https://github.com/mohdgeelani/FastAuth-RBAC-Sentinel)[![RetailFlow](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=RetailFlow&theme=react)](https://github.com/mohdgeelani/RetailFlow)
-[![URL-Shortener](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=url_shortener&theme=react)](https://github.com/mohdgeelani/url_shortener)[![Melody_Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=Melody_Mosaic&theme=react)](https://github.com/mohdgeelani/Melody_Mosaic)
+[![FastAuth-RBAC-Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=FastAuth-RBAC-Sentinel&theme=react)](https://github.com/mohdgeelani/FastAuth-RBAC-Sentinel)&nbsp;&nbsp;[![RetailFlow](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=RetailFlow&theme=react)](https://github.com/mohdgeelani/RetailFlow)&nbsp;&nbsp;[![URL-Shortener](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=url_shortener&theme=react)](https://github.com/mohdgeelani/url_shortener)[![Melody_Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=Melody_Mosaic&theme=react)](https://github.com/mohdgeelani/Melody_Mosaic)
 
 ---
 
@@ -51,7 +50,7 @@
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF6F00?logo=python&logoColor=white&style=flat)
 
 ---
 
@@ -60,8 +59,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdgeelani&show_icons=true&theme=react&hide_border=true)
 
 ---
+```
+⚡ Let’s connect and build something impactful.
+```
 
-Always learning. Always building.
 
 
 
