@@ -11,12 +11,13 @@
 - 🔁 Develop robust **ETL pipelines** using **Airflow**, **SQL**, and **Python**
 - ☁️ Build **serverless microservices** using **AWS Lambda** and **SAM CLI**
 - 📊 Integrate **real-time observability** with **Prometheus + Grafana**
-- 🧠 Solve 1100+ DSA problems on [LeetCode](https://leetcode.com/) (500+) & [GFG](https://www.geeksforgeeks.org/) (600+)
+- 🧠 Solve 1100+ DSA problems on [LeetCode]([https://leetcode.com/](https://leetcode.com/u/MOHD_GEELANI_25/)) (500+) & [GFG]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/user/mohdgeelanikhan25/)) (600+)
 
 ---
 ## 📌 Pinned Repositories
 
-[![FastAuth-RBAC-Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=FastAuth-RBAC-Sentinel&theme=react)](https://github.com/mohdgeelani/FastAuth-RBAC-Sentinel)       [![RetailFlow](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=RetailFlow&theme=react)](https://github.com/mohdgeelani/RetailFlow)
+[![FastAuth-RBAC-Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=FastAuth-RBAC-Sentinel&theme=react)](https://github.com/mohdgeelani/FastAuth-RBAC-Sentinel)       
+[![RetailFlow](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=RetailFlow&theme=react)](https://github.com/mohdgeelani/RetailFlow)
 [![URL-Shortener](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=url_shortener&theme=react)](https://github.com/mohdgeelani/url_shortener)
 [![Melody_Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=Melody_Mosaic&theme=react)](https://github.com/mohdgeelani/Melody_Mosaic)
 
@@ -46,7 +47,7 @@
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/mohdgeelani)
-- 📂 [GitHub Projects]([https://github.com/mohdgeelani?tab=repositories](https://github.com/mohdgeelani?tab=repositories))
+- 💼 [LinkedIn][https://linkedin.com/in/mohdgeelani](https://www.linkedin.com/in/mohd-geelani/)
+- 📂 [GitHub Projects]([[https://github.com/mohdgeelani?tab=repositories](https://github.com/mohdgeelani?tab=repositories)])
 
 
