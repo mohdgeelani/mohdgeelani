@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Mohd Geelani
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/your-linkedin-username)
+# 👋 Hi, I'm Mohd Geelani    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/your-linkedin-username)
 🎓 Recent CSE Graduate | AI/ML & Data Enthusiast | Software & Data Engineering  
 💡 Passionate about building **scalable systems**, **data pipelines**, and **production-ready architectures**.
 
