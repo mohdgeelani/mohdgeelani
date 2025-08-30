@@ -47,7 +47,7 @@
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn][https://linkedin.com/in/mohdgeelani](https://www.linkedin.com/in/mohd-geelani/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohd-geelani/](https://www.linkedin.com/in/mohd-geelani/))
 - 📂 [GitHub Projects]([[https://github.com/mohdgeelani?tab=repositories](https://github.com/mohdgeelani?tab=repositories)])
 
 
