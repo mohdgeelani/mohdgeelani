@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohd Geelani
 
-🎓 Recent CSE Graduate | 🧠 AI/ML & Data Enthusiast | 🛠️ Software Engineer & Data Engineer  
+🎓 Recent CSE Graduate | AI/ML & Data Enthusiast | Software & Data Engineering  
 💡 Passionate about building **scalable systems**, **data pipelines**, and **production-ready architectures**.
 
 ---
@@ -18,8 +18,8 @@
 
 [![FastAuth-RBAC-Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=FastAuth-RBAC-Sentinel&theme=react)](https://github.com/mohdgeelani/FastAuth-RBAC-Sentinel)
 [![RetailFlow](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=RetailFlow&theme=react)](https://github.com/mohdgeelani/RetailFlow)
-[![aws-url-shortener](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=aws-url-shortener&theme=react)](https://github.com/mohdgeelani/aws-url-shortener)
-[![Melody-Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=Melody-Mosaic&theme=react)](https://github.com/mohdgeelani/Melody-Mosaic)
+[![URL-Shortener](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=url_shortener&theme=react)](https://github.com/mohdgeelani/url_shortener)
+[![Melody_Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=mohdgeelani&repo=Melody_Mosaic&theme=react)](https://github.com/mohdgeelani/Melody_Mosaic)
 
 ---
 
@@ -48,6 +48,6 @@
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/mohdgeelani)
-- 📂 [GitHub Projects](https://github.com/mohdgeelani?tab=repositories)
-- 🧠 [Resume (Public Link)](https://github.com/mohdgeelani/Mohd_Geelani_Resume/blob/main/Mohd_Geelani_Resume.pdf)
+- 📂 [GitHub Projects]([https://github.com/mohdgeelani?tab=repositories](https://github.com/mohdgeelani?tab=repositories))
+
 
